@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <nome>Aries</nome>
+        <dataInicio>21-03</dataInicio>
+        <dataFim>19-04</dataFim>
+        <regente>Marte</regente>
+        <descricao>Pioneiro e aventureiro, Áries é o primeiro signo do zodíaco! Regido por Marte, o planeta da guerra, os arianos são conhecidos por sua coragem extraordinária e espírito de liderança nato. Sua energia inesgotável e entusiasmo contagiante fazem deles verdadeiros iniciadores de projetos.</descricao>
+    </signo>
+    <signo>
+        <nome>Touro</nome>
+        <dataInicio>20-04</dataInicio>
+        <dataFim>20-05</dataFim>
+        <regente>Vênus</regente>
+        <descricao>Governado por Vênus, Touro é o signo da abundância e do prazer sensorial. Os taurinos são conhecidos por sua natureza paciente, determinada e prática. Apreciam o conforto material, as artes e tudo que é belo.</descricao>
+    </signo>
+    <signo>
+        <nome>Gemeos</nome>
+        <dataInicio>21-05</dataInicio>
+        <dataFim>20-06</dataFim>
+        <regente>Mercúrio</regente>
+        <descricao>Versátil e comunicativo, Gêmeos é regido por Mercúrio, o mensageiro dos deuses. Os geminianos são verdadeiros camaleões sociais, adaptando-se facilmente a diferentes situações e pessoas.</descricao>
+    </signo>
+    <signo>
+        <nome>Cancer</nome>
+        <dataInicio>21-06</dataInicio>
+        <dataFim>22-07</dataFim>
+        <regente>Lua</regente>
+        <descricao>Regido pela Lua, Câncer é o signo do lar e das emoções profundas. Os cancerianos são naturalmente intuitivos e protetores, com uma conexão especial com a família e suas raízes.</descricao>
+    </signo>
+    <signo>
+        <nome>Leao</nome>
+        <dataInicio>23-07</dataInicio>
+        <dataFim>22-08</dataFim>
+        <regente>Sol</regente>
+        <descricao>Governado pelo Sol, Leão é o signo da realeza e do brilho pessoal. Os leoninos são carismáticos, generosos e naturalmente destacam-se onde quer que estejam.</descricao>
+    </signo>
+    <signo>
+        <nome>Virgem</nome>
+        <dataInicio>23-08</dataInicio>
+        <dataFim>22-09</dataFim>
+        <regente>Mercúrio</regente>
+        <descricao>Regido por Mercúrio, Virgem é o signo da análise e do perfeccionismo. Os virginianos são conhecidos por sua atenção meticulosa aos detalhes e desejo de servir.</descricao>
+    </signo>
+    <signo>
+        <nome>Libra</nome>
+        <dataInicio>23-09</dataInicio>
+        <dataFim>22-10</dataFim>
+        <regente>Vênus</regente>
+        <descricao>Sob a regência de Vênus, Libra é o signo do equilíbrio e da harmonia. Os librianos são naturalmente diplomáticos e justos, sempre buscando beleza e paz em tudo que fazem.</descricao>
+    </signo>
+    <signo>
+        <nome>Escorpiao</nome>
+        <dataInicio>23-10</dataInicio>
+        <dataFim>21-11</dataFim>
+        <regente>Plutão</regente>
+        <descricao>Regido por Plutão e Marte, Escorpião é o signo da transformação e dos mistérios. Os escorpianos são intensos, passionais e possuem uma força interior extraordinária.</descricao>
+    </signo>
+    <signo>
+        <nome>Sagitario</nome>
+        <dataInicio>22-11</dataInicio>
+        <dataFim>21-12</dataFim>
+        <regente>Júpiter</regente>
+        <descricao>Governado por Júpiter, Sagitário é o signo da expansão e da sabedoria. Os sagitarianos são eternos otimistas e aventureiros, sempre em busca de novos horizontes e conhecimentos.</descricao>
+    </signo>
+    <signo>
+        <nome>Capricornio</nome>
+        <dataInicio>22-12</dataInicio>
+        <dataFim>19-01</dataFim>
+        <regente>Saturno</regente>
+        <descricao>Regido por Saturno, Capricórnio é o signo da ambição e da responsabilidade. Os capricornianos são naturalmente disciplinados e determinados, com uma capacidade extraordinária de estabelecer e alcançar metas.</descricao>
+    </signo>
+    <signo>
+        <nome>Aquario</nome>
+        <dataInicio>20-01</dataInicio>
+        <dataFim>18-02</dataFim>
+        <regente>Urano</regente>
+        <descricao>Sob a regência de Urano, Aquário é o signo da inovação e do progresso. Os aquarianos são visionários e originais, sempre à frente de seu tempo.</descricao>
+    </signo>
+    <signo>
+        <nome>Peixes</nome>
+        <dataInicio>19-02</dataInicio>
+        <dataFim>20-03</dataFim>
+        <regente>Netuno</regente>
+        <descricao>Governado por Netuno, Peixes é o signo da intuição e da compaixão universal. Os piscianos são naturalmente empáticos e sonhadores, com uma conexão profunda com o mundo espiritual e artístico.</descricao>
+    </signo>
+</signos>
