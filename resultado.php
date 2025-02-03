@@ -75,8 +75,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <h2 class="signo-titulo"><?= $signoInfo->nome ?></h2>
                     <?php 
                     $imagemPath = "assets/imgs/" . formatarNomeImagem($signo) . ".png";
-                    // Debug: mostrar o caminho da imagem
-                    echo "<!-- Tentando carregar imagem: " . $imagemPath . " -->";
                     ?>
                     <img src="<?= $imagemPath ?>" alt="<?= $signo ?>" class="signo-imagem">
                     <?php
